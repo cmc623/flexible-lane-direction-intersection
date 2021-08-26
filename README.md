@@ -7,10 +7,10 @@ Unsignalized intersection cooperation has been be proved to be able to eliminate
 ### Signzalized intersection
 <img src="https://github.com/cmc623/variable-lane-turning-intersection/blob/main/intersection-signalized.gif" width="1000" />
 
-### Unignzalized intersection with fixed lane turning
+### Unignzalized intersection with fixed lane direction
 <img src="https://github.com/cmc623/variable-lane-turning-intersection/blob/main/intersection-unsignalized-fixed-turning.gif" width="1000" />
 
-### Unignzalized intersection with variable lane turning
+### Unignzalized intersection with flexible lane direction
 <img src="https://github.com/cmc623/variable-lane-turning-intersection/blob/main/intersection-unsignalized-variable-turning.gif" width="1000" />
 
 ### In-coming segment
